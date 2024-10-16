@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Kotlin<br></p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Typescript<br></p>
 
 ###
 
