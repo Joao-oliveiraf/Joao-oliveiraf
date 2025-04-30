@@ -1,64 +1,81 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<p align="left">My name is João Pedro (a.k.a John) and I'm a Backend Developer</p>
 
-<p align="left">My name is John and I'm a Backend Developer</p>
-
-###
+---
 
 <h2 align="left">About me</h2>
 
-###
+<p align="left">
+🚀 Backend Developer<br>
+🎓 Currently studying Systems Analysis and Development.<br>
+🔧 I've been studying programming since 2023 and have been working in the field since december 2023.<br>
+</p>
 
-<p align="left">✨ Creating bugs since 2022<br>
+---
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
+<h2 align="left">Tech Stack</h2>
 
 <div align="center">
-  <a href="#" title="Javascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/></a>
+  <a href="#" title="TypeScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"/>
+  </a>
   <img width="12" />
-  <a href="#" title="Typescript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/></a>
+  <a href="#" title="Node.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"/>
+  </a>
+  <img width="12" />
+  <a href="#" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"/>
+  </a>
+  <img width="12" />
+  <a href="#" title="Django">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo"/>
+  </a>
   <img width="12" />
   <a href="#" title="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
-  <img width="12"/>  
-  <a href="#" title="Nodesjs">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/></a>
-  <img width="12"/>  
-  <a href="#" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"/>
+  </a>
   <img width="12" />
-  <a href="#" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  /></a>
+  <a href="#" title="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo"/>
+  </a>
   <img width="12" />
-  <a href="#" title="SQLite3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  /></a>
+  <a href="#" title="Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"/>
+  </a>
   <img width="12" />
-  <a href="#" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /></a>
+  <a href="#" title="SQL Server">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo"/>
+  </a>
   <img width="12" />
-  <a href="#" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></a>
+  <a href="#" title="PostgreSQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"/>
+  </a>
   <img width="12" />
-  <a href="#" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></a>
-  <img width="12" />
-  <a href="#" title="Bootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  /></a>
+  <a href="#" title="SQLite">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo"/>
+  </a>
 </div>
 
-###
+---
+
+<h2 align="left">Cloud & Infrastructure</h2>
+
+<p align="left">
+🧰 Comfortable with core AWS services such as:<br>
+• EC2, S3, Lambda, RDS, VPC, IAM & Others<br>
+
+</p>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joao-oliveiraf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-###
-
-  <div align="center">
+<div align="center">
   <img src="https://www.codewars.com/users/RevelYK/badges/large"/>
-  </div>
-
-
-###
-
-
+</div>
