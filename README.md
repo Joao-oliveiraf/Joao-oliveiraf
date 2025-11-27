@@ -1,16 +1,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is João Pedro (a.k.a John) and I'm a Backend Developer</p>
+<p align="left">My name is João Pedro (a.k.a John) and I'm a Software Developer</p>
 
 ---
 
-<h2 align="left">About me</h2>
-
-<p align="left">
-🚀 Backend Developer<br>
-🎓 Currently studying Systems Analysis and Development.<br>
-🔧 I've been studying programming since 2023 and have been working in the field since december 2023.<br>
-</p>
 
 ---
 
@@ -63,7 +56,7 @@
 <h2 align="left">Cloud & Infrastructure</h2>
 
 <p align="left">
-🧰 Comfortable with core AWS services such as:<br>
+🧰 Comfortable with AWS services such as:<br>
 • EC2, S3, Lambda, RDS, VPC, IAM & Others<br>
 
 </p>
